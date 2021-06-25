@@ -1,0 +1,13 @@
+Task,start,end,Department,Completion
+Task A,14-Jun-2021,18-Jun-2021,Mkt,100
+Task B,16-Jun-2021,24-Jun-2021,Fin,100
+Task C,18-Jun-2021,22-Jun-2021,Fin,100
+Task D,22-Jun-2021,25-Jun-2021,Mkt,90
+Task E,22-Jun-2021,30-Jun-2021,HR,60
+Task F,24-Jun-2021,26-Jun-2021,Fin,50
+Task G,25-Jun-2021,26-Jun-2021,Fin,20
+Task H,27-Jun-2021,30-Jun-2021,Mkt,20
+Task I,27-Jun-2021,03-Jul-2021,Mkt,10
+Task J,30-Jun-2021,04-Jul-2021,Mkt,0
+Task K,04-Jul-2021,08-Jul-2021,HR,0
+Task L,01-Jul-2021,06-Jul-2021,HR,0
