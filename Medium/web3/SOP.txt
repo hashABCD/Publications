@@ -1,0 +1,10 @@
+Step 1: Create a virtual environment
+Step 2: pip install web3
+
+# error: c++ required
+Download visual studio with C++ from 
+https://visualstudio.microsoft.com/vs/features/cplusplus/
+check c++ build tools in Workloads
+
+Create Etherium project in infura
+
